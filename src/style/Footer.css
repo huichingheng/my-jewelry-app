@@ -1,0 +1,15 @@
+#footer {
+    background-color:  #ffdbac;
+    font-weight: 300;
+  }
+  
+  .column {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  
+  .bottom-line {
+    text-align: center;
+    font-style: italic;
+    font-size: 14px;
+  }

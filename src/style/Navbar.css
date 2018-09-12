@@ -1,0 +1,22 @@
+#navbar {
+    width: calc(var(--width));
+    border-bottom: #f4f4f4 solid 2px;
+    overflow: hidden;
+  }
+  
+#navbar li {
+    display: inline;
+    font-weight: 300;
+    list-style-type: none;
+    text-transform: capitalize;
+    padding: 2em;
+  }
+  
+#navbar li:hover {
+    color: #ffdbac;
+    cursor: pointer;
+  }
+
+#navbar li:active {
+    border-bottom: 2px solid #ffdbac;
+  }

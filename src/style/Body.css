@@ -1,0 +1,12 @@
+.product-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 30px;
+    grid-row-gap: 25px;
+    width: calc(var(--width) - 30%);
+    margin: 50px auto;
+    text-align: center;
+    font-weight: 300;
+    text-transform: capitalize;
+    /* margin-bottom: 100px; */
+  }

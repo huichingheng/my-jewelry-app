@@ -1,0 +1,11 @@
+#main-header {
+    width: calc(var(--width) - 20%);
+    margin: auto;
+    color: #fff;
+    font-weight: 200;
+    padding: 8px;
+  }
+  
+  .float-right {
+    float: right;
+  }
