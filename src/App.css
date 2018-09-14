@@ -6,7 +6,6 @@
 .body {
   background-color: #ffdbac;
   height: 2.5em;
-  color: #555;
   font: normal 16px Roboto, Helvetica, Open Sans, sans-serif;
   line-height: 1.5em;
 }
@@ -16,5 +15,3 @@
   margin: auto;
   text-align: center;
 }
-
-
